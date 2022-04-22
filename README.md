@@ -88,6 +88,11 @@ I hope you all enjoyed learning about OpenSCAD and if you end up dabbling with i
 
 ![SpringTree snowglobes photo](snowglobes.jpg)
 
+And just to prove it, here is a very quick printed version of the cube frame from the examples
+
+![printed example cube photo](printable_cube_frame.jpg)
+
+
 Useful links:
 
 * [OpenSCAD](https://openscad.org/)
